@@ -368,7 +368,7 @@
         <entry key="AppValidationAutomation" value="" />
         <entry key="Appathy" value="" />
         <entry key="Appengine-Fixture-Loader" value="" />
-        <entry key="Appium-Python-Client" value="" />
+        <entry key="Appium-Python-Client" value="0.22" />
         <entry key="ApplePy" value="" />
         <entry key="Appli" value="" />
         <entry key="ApplianceKit-NG" value="" />
@@ -14177,7 +14177,7 @@
         <entry key="begin_nester" value="" />
         <entry key="begins" value="" />
         <entry key="behance_python" value="" />
-        <entry key="behave" value="" />
+        <entry key="behave" value="1.2.5" />
         <entry key="behave-django" value="" />
         <entry key="behave-http" value="" />
         <entry key="behave-jenkins" value="" />
@@ -33808,7 +33808,7 @@
         <entry key="enum" value="" />
         <entry key="enum-compat" value="" />
         <entry key="enum21" value="" />
-        <entry key="enum34" value="" />
+        <entry key="enum34" value="1.1.6" />
         <entry key="enum34-custom" value="" />
         <entry key="enum3field" value="" />
         <entry key="enum_meta" value="" />
@@ -56910,7 +56910,7 @@
         <entry key="parquet2hive" value="" />
         <entry key="parrot" value="" />
         <entry key="parsable" value="" />
-        <entry key="parse" value="" />
+        <entry key="parse" value="1.6.6" />
         <entry key="parse-python-indentation" value="" />
         <entry key="parse-requests" value="" />
         <entry key="parse-requirements-not-suckily" value="" />
@@ -58333,7 +58333,7 @@
         <entry key="pion" value="" />
         <entry key="pioneeravclient" value="" />
         <entry key="pior" value="" />
-        <entry key="pip" value="" />
+        <entry key="pip" value="8.1.2" />
         <entry key="pip-Win" value="" />
         <entry key="pip-accel" value="" />
         <entry key="pip-autoremove" value="" />
@@ -73185,7 +73185,7 @@
         <entry key="selenate" value="" />
         <entry key="selene" value="" />
         <entry key="selenic" value="" />
-        <entry key="selenium" value="" />
+        <entry key="selenium" value="9429" />
         <entry key="selenium-chrome-screenshot" value="" />
         <entry key="selenium-configurator" value="" />
         <entry key="selenium-requests" value="" />
@@ -73559,7 +73559,7 @@
         <entry key="setupreader" value="" />
         <entry key="setuptize_me" value="" />
         <entry key="setuptool" value="" />
-        <entry key="setuptools" value="" />
+        <entry key="setuptools" value="26.1.1" />
         <entry key="setuptools-bower" value="" />
         <entry key="setuptools-ci" value="" />
         <entry key="setuptools-clonedigger" value="" />
@@ -74652,7 +74652,7 @@
         <entry key="siva" value="" />
         <entry key="sivart" value="" />
         <entry key="sivel-test" value="" />
-        <entry key="six" value="" />
+        <entry key="six" value="1.10.0" />
         <entry key="sixelplot" value="" />
         <entry key="sixelterm" value="" />
         <entry key="sixer" value="" />
