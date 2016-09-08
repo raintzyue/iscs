@@ -70451,7 +70451,7 @@
         <entry key="requestests" value="" />
         <entry key="requestions" value="" />
         <entry key="requeston" value="" />
-        <entry key="requests" value="" />
+        <entry key="requests" value="2.11.1" />
         <entry key="requests-aeaweb" value="" />
         <entry key="requests-aliyun" value="" />
         <entry key="requests-auth-mashery" value="" />
@@ -76466,7 +76466,7 @@
         <entry key="spyte" value="" />
         <entry key="sqinsta" value="" />
         <entry key="sqjobs" value="" />
-        <entry key="sql" value="" />
+        <entry key="sql" value="0.4.0" />
         <entry key="sql-disco" value="" />
         <entry key="sql-to-graphite" value="" />
         <entry key="sql4json" value="" />
