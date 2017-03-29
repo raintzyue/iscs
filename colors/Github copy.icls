@@ -1,11 +1,4 @@
 <scheme name="Github copy" version="142" parent_scheme="Default">
-  <metaInfo>
-    <property name="created">2017-02-09T10:19:17</property>
-    <property name="ide">Python</property>
-    <property name="ideVersion">2016.2.1.0.0</property>
-    <property name="modified">2017-02-09T10:22:39</property>
-    <property name="originalScheme">Github</property>
-  </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -1502,11 +1495,6 @@
       <value>
         <option name="FOREGROUND" value="660e7a" />
         <option name="FONT_TYPE" value="3" />
-      </value>
-    </option>
-    <option name="STATIC_METHOD_ATTRIBUTES">
-      <value>
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="TAG_ATTR_KEY">
