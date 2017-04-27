@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
